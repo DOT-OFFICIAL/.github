@@ -49,5 +49,5 @@ DOT - современный IT проект, направленный на со
         <a href="mailto:dot_official_support@icloud.com" title="Наша Почта"><img src="https://github.com/DOT-IT-DEV/DOT-IT-DEV/raw/main/RES/IC.svg" style="width: 25px;" alt="TikTok"></a>
     </div>
     <h1></h1>
-    <h6>GNU GLP v3</h6>
+    <h6>GNU GPL v3</h6>
 </div>  
